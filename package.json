@@ -1,0 +1,18 @@
+{
+  "name": "week5-api",
+  "version": "1.0.0",
+  "description": "how to deploy api",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js "
+  },
+  "author": "miley",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2", 
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.2",
+    "nodemon": "^3.0.1"
+  }
+}
